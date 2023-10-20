@@ -1,4 +1,4 @@
-0#define button 5
+#define button 5
 #define greenLed 10
 #define redLed 8
 #define del 1000
