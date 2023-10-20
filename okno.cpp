@@ -3,8 +3,6 @@
 #define redLed 8
 #define del 1000
 
-int buttonState = 0;
-
 void setup() {
   Serial.begin(9600);
   pinMode(button, INPUT);
